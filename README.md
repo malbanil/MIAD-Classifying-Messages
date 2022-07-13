@@ -26,3 +26,12 @@ interface.
 
 Keywords: E-commerce · Message classification · Supervised learning
 · Support Vector Machine · Balancing techniques
+
+Authors: 
+- Misael Andrey Albanil Sanchez[0000−0003−2746−1299]
+- Ixent Galpin[0000−0001−7020−6328]
+
+Facultad de Ciencias Naturales e Ingenieria
+Universidad de Bogota – Jorge Tadeo Lozano
+Bogota, Colombia
+{misaela.albanils,ixent}@utadeo.edu.co
